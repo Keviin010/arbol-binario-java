@@ -29,25 +29,26 @@ Un árbol binario de búsqueda (BST) organiza los datos para que, para cualquier
 
 ## Capturas de pantalla 
 
+### 1. Menú inicial  
+![Menú inicial](capturas/menu.png)
 
-1. **Menú inicial** — `capturas/menu.png`  
-   Mostrar la consola con el menú principal.
+### 2. Insertar números  
+![Insertar números - parte 1](capturas/insert1.png)  
+![Insertar números - parte 2](capturas/insert2.png)
 
-2. **Insertar números** — `capturas/insert1.png` y `capturas/insert2.png`  
-   Primera captura: insertar algunos números (por ejemplo `40`, `20`, `60`).  
-   Segunda captura: seguir insertando (`10`, `30`, `50`, `70`).
+### 3. Recorrido inorden  
+![Recorrido inorden](capturas/inorder.png)
 
-3. **Recorrido inorden** — `capturas/inorder.png`  
-   Captura que muestre la salida `10 20 30 40 50 60 70`.
+### 4. Buscar número existente  
+![Buscar número existente](capturas/buscar_ok.png)
 
-4. **Buscar número existente** — `capturas/buscar_ok.png`  
-   Buscar `30` y mostrar el mensaje `Número encontrado: 30`.
+### 5. Buscar número inexistente  
+![Buscar número inexistente](capturas/buscar_no.png)
 
-5. **Buscar número inexistente** — `capturas/buscar_no.png`  
-   Buscar `99` y mostrar el mensaje `No existe el número: 99`.
+### 6. Salir  
+![Salir del programa](capturas/salir.png)
 
-6. **Salir** — `capturas/salir.png`  
-   Mostrar el mensaje de despedida al seleccionar salir.
+
 
 
 
